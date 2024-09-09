@@ -18,3 +18,15 @@ Proficient in utilizing Pivot Tables for data analysis, enabling effective data 
 ## Microsoft Power BI Skills:
 ### Description
 During my time at Turing College, I developed multiple Power BI dashboards, gaining hands-on experience in various aspects of data visualization and business intelligence. I learned how to efficiently transform and model data, create interactive reports, and utilize advanced features such as DAX formulas for custom calculations. I also became proficient in connecting to different data sources, building relationships between datasets, and designing user-friendly dashboards that effectively communicate insights. These skills have equipped me to confidently apply Power BI in a professional setting, adding real value to any data-driven decision-making process. You can view highlights of my work in the table of contents, here you can see pbix version of the dashboards: [My first Power BI dashboard](My%20first%20powerbi%20dashboard.pbix); [Financial dashboard in Power BI](Financial%20overview%20dashboard.pbix); [Customer segmentation in Power BI](Customer%20segmentation%20POWER%20BI.pbix)
+
+## Cohort analysis:
+This is a basic cohort analysis where I applied conditional formatting to visually highlight customer retention and churn trends.
+
+## Funnels analysis:
+
+
+
+## Customer lifetime value:
+
+
+## AB testing:
