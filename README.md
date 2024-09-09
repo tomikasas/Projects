@@ -23,7 +23,7 @@ During my time at Turing College, I developed multiple Power BI dashboards, gain
 This is a basic cohort analysis where I applied conditional formatting to visually highlight customer retention and churn trends.
 
 ## Funnels analysis:
-
+This analysis focused on the customer journey across five key countries (United States, India, Canada, United Kingdom, France), tracking progression from session start to purchase. Funnel visuals were incorporated to enhance the interpretation of the results.
 
 
 ## Customer lifetime value:
