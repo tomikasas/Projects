@@ -11,6 +11,8 @@ This repository contains a collection of data analytics projects completed as pa
 7. [Customer lifetime value](Customer%20lifetime%20value%20(cohorts).xlsx)
 8. [AB testing](AB%20test%20task.docx)
 
-## Project 1: Sales Analysis
+## Excel skills
 ### Description
-This project analyzes sales data to identify trends and patterns in revenue across different regions.
+Proficient in using Pivot Tables for data analysis and reporting, enabling effective filtering, grouping, and visualization of data. Skilled in applying Data Validation to maintain accuracy and consistency in datasets. Expertise in VLOOKUP for efficient data retrieval from large tables. Also experienced in cleaning and transforming raw datasets to ensure data integrity and readiness for analysis.
+
+
