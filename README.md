@@ -13,6 +13,8 @@ This repository contains a collection of data analytics projects completed as pa
 
 ## Excel skills
 ### Description
-Proficient in using Pivot Tables for data analysis and reporting, enabling effective filtering, grouping, and visualization of data. Skilled in applying Data Validation to maintain accuracy and consistency in datasets. Expertise in VLOOKUP for efficient data retrieval from large tables. Also experienced in cleaning and transforming raw datasets to ensure data integrity and readiness for analysis.
+Proficient in utilizing Pivot Tables for data analysis, enabling effective data summarization and visualization. Skilled in Data Validation to ensure data accuracy and consistency, with strong expertise in VLOOKUP for efficient data retrieval from large tables. Adept in using simple functions like SUM, AVERAGE, COUNTIF, CONCAT and others for basic data calculations. Experienced in cleaning and transforming datasets to maintain data integrity for analysis.
 
-
+## Microsoft Power BI Skills
+### Description
+During my time at Turing College, I developed multiple Power BI dashboards, gaining hands-on experience in various aspects of data visualization and business intelligence. I learned how to efficiently transform and model data, create interactive reports, and utilize advanced features such as DAX formulas for custom calculations. I also became proficient in connecting to different data sources, building relationships between datasets, and designing user-friendly dashboards that effectively communicate insights. These skills have equipped me to confidently apply Power BI in a professional setting, adding real value to any data-driven decision-making process. You can view highlights of my work in the table of contents, here you can see pbix version of the dashboards: [My first Power BI dashboard];
