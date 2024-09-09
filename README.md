@@ -5,12 +5,13 @@ This repository contains a collection of data analytics projects completed as pa
 
 ## Table of Contents
 1. [Excel skills](Excel%20knowledge%20(simple%20example).xlsx)
-2. [Project 2: Customer Segmentation](#project-2-customer-segmentation)
-3. [Installation and Setup](#installation-and-setup)
-4. [Examples and Results](#examples-and-results)
-5. [Documentation](#documentation)
-6. [License and Attribution](#license-and-attribution)
-7. [AB testing](AB%20test%20task.docx)
+2. [AB testing](AB%20test%20task.docx)
+3. [AB testing](AB%20test%20task.docx)
+4. [AB testing](AB%20test%20task.docx)
+5. [AB testing](AB%20test%20task.docx)
+6. [AB testing](AB%20test%20task.docx)
+7. [Funnels analysis](funnels.xlsx)
+8. [AB testing](AB%20test%20task.docx)
 
 ## Project 1: Sales Analysis
 ### Description
