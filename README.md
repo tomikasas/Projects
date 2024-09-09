@@ -10,8 +10,6 @@ This repository contains a collection of data analytics projects completed as pa
 6. [Funnels analysis](funnels.xlsx)
 7. [Customer lifetime value](Customer%20lifetime%20value%20(cohorts).xlsx)
 8. [AB testing](AB%20test%20task.docx)
-9. [Funnels analysis](funnels.xlsx)
-10. [AB testing](AB%20test%20task.docx)
 
 ## Project 1: Sales Analysis
 ### Description
