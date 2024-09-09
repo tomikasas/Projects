@@ -6,9 +6,9 @@ This repository contains a collection of data analytics projects completed as pa
 ## Table of Contents
 1. [Excel skills](Excel%20knowledge%20(simple%20example).xlsx)
 2. [My first Power BI dashboard](My%20first%20powerbi%20dashboard.pdf); [Financial dashboard in Power BI](Financial%20overview%20dashboard.pdf); [Customer segmentation in Power BI](Customer%20segmentation%20POWER%20BI.pdf)
-5. [AB testing](AB%20test%20task.docx)
-6. [AB testing](AB%20test%20task.docx)
-7. [AB testing](AB%20test%20task.docx)
+5. [Cohort analysis](Cohort%20analysis.xlsx)
+6. [Funnels analysis](funnels.xlsx)
+7. [Customer lifetime value](Customer%20lifetime%20value%20(cohorts).xlsx)
 8. [AB testing](AB%20test%20task.docx)
 9. [Funnels analysis](funnels.xlsx)
 10. [AB testing](AB%20test%20task.docx)
