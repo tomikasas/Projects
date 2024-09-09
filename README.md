@@ -5,7 +5,7 @@ This repository contains a collection of data analytics projects completed as pa
 
 ## Table of Contents
 1. [Excel skills](Excel%20knowledge%20(simple%20example).xlsx)
-2. [Financial dashboard in Power BI](AB%20test%20task.docx); [Customer segmentation in Power BI 2](Customer%20segmentation%20POWER%20BI.pdf); 
+2. [My first Power BI dashboard](My%20first%20powerbi%20dashboard.pdf); [Financial dashboard in Power BI](Financial%20overview%20dashboard.pdf); [Customer segmentation in Power BI](Customer%20segmentation%20POWER%20BI.pdf)
 5. [AB testing](AB%20test%20task.docx)
 6. [AB testing](AB%20test%20task.docx)
 7. [AB testing](AB%20test%20task.docx)
