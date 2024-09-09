@@ -4,7 +4,8 @@
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools and techniques.
 
 ## Table of Contents
-1. [ AB test task.docx ](#AB test task.docx)
+1. [Projects
+/AB test task.docx](#AB test task.docx)
 2. [Project 2: Customer Segmentation](#project-2-customer-segmentation)
 3. [Installation and Setup](#installation-and-setup)
 4. [Examples and Results](#examples-and-results)
