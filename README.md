@@ -26,9 +26,13 @@ During my time at Turing College, I developed multiple Power BI dashboards, gain
 ### Description
 This is a basic cohort analysis where I applied conditional formatting to visually highlight customer retention and churn trends.
 
+[SQL CODE](https://github.com/tomikasas/Codes/blob/main/Subscription_Retention.sql)
+
 ## 4. Funnels analysis:
 ### Description
 This analysis focused on the customer journey across five key countries (United States, India, Canada, United Kingdom, France), tracking progression from session start to purchase. Funnel visuals were incorporated to enhance the interpretation of the results.
+
+[SQL CODE](https://github.com/tomikasas/Codes/blob/main/AB%20test.sql)
 
 ## 5. Customer lifetime value:
 ### Description
