@@ -2,6 +2,7 @@
 
 ## Introduction:
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools such as SQL, Microsoft Excel, Microsoft Power BI, etc.
+
 PS. in order to get the results for the projects SQL was implemented. You can find more details here:  [Codes](https://github.com/tomikasas/Codes)
 
 ## Table of Contents:
