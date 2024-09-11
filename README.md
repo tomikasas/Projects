@@ -32,7 +32,7 @@ This is a basic cohort analysis where I applied conditional formatting to visual
 ### Description
 This analysis focused on the customer journey across five key countries (United States, India, Canada, United Kingdom, France), tracking progression from session start to purchase. Funnel visuals were incorporated to enhance the interpretation of the results.
 
-[SQL CODE](https://github.com/tomikasas/Codes/blob/main/AB%20test.sql)
+[SQL CODE](https://github.com/tomikasas/Codes/blob/main/funnels.sql)
 
 ## 5. Customer lifetime value:
 ### Description
