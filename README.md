@@ -3,7 +3,7 @@
 ## Introduction:
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools such as SQL, Microsoft Excel, Microsoft Power BI, etc.
 
-PS. SQL was implemented to generate the results for these projects. For more details, please refer to [Codes](https://github.com/tomikasas/Codes).
+PS. SQL was implemented to generate the results for these projects. For more details, please take a look at [Codes](https://github.com/tomikasas/Codes).
 
 ## Table of Contents:
 1. [Excel skills](Excel/Excel%20knowledge%20(simple%20example).xlsx)
@@ -39,6 +39,8 @@ In my recent project, I conducted a Customer Lifetime Value (CLV) analysis by gr
 The main goal of this project was to evaluate which of three marketing strategies (Promotions 1, 2, and 3) was the most effective in driving sales. An A/B test was conducted and the results were analyzed using key statistical tools, including ANOVA and t-tests, with a 
 confidence level of 99%. The dataset included key metrics such as market size, store age, and sales in thousands, which helped assess the impact of each promotion on overall business performance.
 Based on the statistical analysis, Promotion 1 was identified as the most effective, generating the highest average sales and showing a significant difference compared to Promotion 2. While Promotion 3 performed similarly to Promotion 1, no significant difference was found between them. However, Promotion 2 underperformed in both total and average sales. Therefore, I recommend prioritizing Promotion 1 in future campaigns, with Promotion 3 as a secondary option. Promotion 2 should be deprioritized due to its lower overall impact on sales.
+
+[SQL CODE](https://github.com/tomikasas/Codes/blob/main/AB%20test.sql)
 
 ## 7. Python:
 ### Description
