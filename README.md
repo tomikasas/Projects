@@ -3,7 +3,7 @@
 ## Introduction:
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools such as SQL, Microsoft Excel, Microsoft Power BI, etc.
 
-PS. SQL was implemented to generate the results for these projects. For more details, please refer to [Codes](https://github.com/tomikasas/Codes)
+PS. SQL was implemented to generate the results for these projects. For more details, please refer to [Codes](https://github.com/tomikasas/Codes).
 
 ## Table of Contents:
 1. [Excel skills](Excel/Excel%20knowledge%20(simple%20example).xlsx)
