@@ -1,4 +1,4 @@
-# Data Analytics Projects by Tomas Grigaitis
+# Data Analytics Projects by Tomas Grigaitis  🔎 📊 
 
 ## Introduction:
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools such as SQL, Microsoft Excel, Microsoft Power BI, etc.
