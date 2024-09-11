@@ -36,7 +36,9 @@ This analysis focused on the customer journey across five key countries (United 
 
 ## 5. Customer lifetime value:
 ### Description
-In my recent project, I conducted a Customer Lifetime Value (CLV) analysis by grouping customers into cohorts based on their initial purchase date. I calculated the revenue generated per customer for each cohort over time, allowing us to identify patterns in how customer value evolves. Once I gathered these revenue metrics, I analyzed trends such as seasonality to determine if external factors, like specific time periods or seasonal shifts, impacted customer spending behaviour. This analysis helped us gain deeper insights into customer retention and purchasing habits. Unfortunately, the analysis showed that we were actually losing money per customer, as the revenue generated was lower than the cost of acquisition.
+In my recent project, I conducted a Customer Lifetime Value (CLV) analysis by grouping customers into cohorts based on their initial purchase date. I calculated the revenue generated per customer for each cohort over time, allowing us to identify patterns in how customer value evolves. Once I gathered these revenue metrics, I analyzed trends such as seasonality to determine if external factors, like specific time periods or seasonal shifts, impacted customer spending behaviour. This analysis helped us gain deeper insights into customer retention and purchasing habits. Unfortunately, the analysis showed that we were actually losing money per customer, as the revenue generated was lower than the cost of acquisition..
+
+[SQL CODE](https://github.com/tomikasas/Codes/blob/main/Customer%20lifetime%20value.sql)
 
 ## 6. AB testing:
 ### Description
