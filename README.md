@@ -3,7 +3,7 @@
 ## Introduction:
 This repository contains a collection of data analytics projects completed as part of my coursework at Turning College. The projects showcase my data analysis, visualization, and interpretation skills using various tools such as SQL, Microsoft Excel, Microsoft Power BI, etc.
 
-PS. SQL was implemented to generate the results for these projects. For more details, please take a look at [Codes](https://github.com/tomikasas/Codes).
+PS. SQL and Python was implemented to generate the results for these projects. For more details, please take a look at [SQL Codes](https://github.com/tomikasas/Codes-SQL-) and [Python Codes](https://github.com/tomikasas/Codes-Python-).
 
 ## Table of Contents:
 1. [Excel skills](Excel/Excel%20knowledge%20(simple%20example).xlsx)
@@ -12,7 +12,9 @@ PS. SQL was implemented to generate the results for these projects. For more det
 4. [Funnels analysis](Excel/funnels.xlsx)
 5. [Customer lifetime value](Excel/Customer%20lifetime%20value%20(cohorts).xlsx)
 6. [AB testing](AB%20test%20task.docx)
-7. Python
+7. [Chess Program](chess_new (updated).py)
+8. [Coursera Project: Course Enrollment Analysis](Coursera_project.ipynb)
+9. [Cardiovascular Disease Prediction](Cardiovascular_disease_prediction.ipynb)
 
 ## 1. Excel skills:
 ### Description
@@ -50,4 +52,6 @@ Based on the statistical analysis, Promotion 1 was identified as the most effect
 
 ## 7. Python:
 ### Description
-To be continued...
+These are 3 main project that i have currently done in python
+**Cardiovascular Disease Prediction** 
+
