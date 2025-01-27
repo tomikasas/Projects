@@ -58,6 +58,10 @@ My first Python project, I implemented a program for a chess board and the movem
 ### Description
 This project examines the Coursera dataset to explore the factors that affect course enrollment. It focuses on understanding how course ratings, difficulty, and certificate types influence the number of students who enroll. The goal is to identify key trends and provide actionable insights based on the data.
 
+More details about this project can be found here: [Jupyter notebook file](Python/Coursera_project.ipynb)
+
 ## 9. Cardiovascular Disease Prediction:
 ### Description
 The primary goal of this project is to analyze the cardiovascular disease dataset and build a logistic regression model that predicts the likelihood of developing coronary heart disease within the next 10 years.
+
+More details about this project can be found here: [Jupyter notebook file](Python/Cardiovascular_disease_prediction.ipynb)
