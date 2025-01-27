@@ -38,7 +38,7 @@ This analysis focused on the customer journey across five key countries (United 
 
 ## 5. Customer lifetime value:
 ### Description
-In my recent project, I conducted a Customer Lifetime Value (CLV) analysis by grouping customers into cohorts based on their initial purchase date. I calculated the revenue generated per customer for each cohort over time, allowing us to identify patterns in how customer value evolves. Once I gathered these revenue metrics, I analyzed trends such as seasonality to determine if external factors, like specific time periods or seasonal shifts, impacted customer spending behaviour. This analysis helped us gain deeper insights into customer retention and purchasing habits. Unfortunately, the analysis showed that we were actually losing money per customer, as the revenue generated was lower than the cost of acquisition..
+I conducted a Customer Lifetime Value (CLV) analysis by grouping customers into cohorts based on their initial purchase date. I calculated the revenue generated per customer for each cohort over time, allowing us to identify patterns in how customer value evolves. Once I gathered these revenue metrics, I analyzed trends such as seasonality to determine if external factors, like specific time periods or seasonal shifts, impacted customer spending behaviour. This analysis helped us gain deeper insights into customer retention and purchasing habits. Unfortunately, the analysis showed that we were actually losing money per customer, as the revenue generated was lower than the cost of acquisition..
 
 [SQL CODE](https://github.com/tomikasas/Codes/blob/main/Customer%20lifetime%20value.sql)
 
@@ -50,8 +50,14 @@ Based on the statistical analysis, Promotion 1 was identified as the most effect
 
 [SQL CODE](https://github.com/tomikasas/Codes/blob/main/AB%20test.sql)
 
-## 7. Python:
+## 7. Chess Program:
 ### Description
-These are 3 main project that i have currently done in python
-**Cardiovascular Disease Prediction** 
+My first Python project, I implemented a program for a chess board and the movement of a rook.
 
+## 8. Coursera Project: Course Enrollment Analysis:
+### Description
+This project examines the Coursera dataset to explore the factors that affect course enrollment. It focuses on understanding how course ratings, difficulty, and certificate types influence the number of students who enroll. The goal is to identify key trends and provide actionable insights based on the data.
+
+## 9. Cardiovascular Disease Prediction:
+### Description
+The primary goal of this project is to analyze the cardiovascular disease dataset and build a logistic regression model that predicts the likelihood of developing coronary heart disease within the next 10 years.
