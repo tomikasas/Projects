@@ -12,9 +12,9 @@ PS. SQL and Python was implemented to generate the results for these projects. F
 4. [Funnels analysis](Excel/funnels.xlsx)
 5. [Customer lifetime value](Excel/Customer%20lifetime%20value%20(cohorts).xlsx)
 6. [AB testing](AB%20test%20task.docx)
-7. [Chess Program](chess_new (updated).py)
-8. [Coursera Project: Course Enrollment Analysis](Coursera_project.ipynb)
-9. [Cardiovascular Disease Prediction](Cardiovascular_disease_prediction.ipynb)
+7. [Chess Program](Python/chess_new (updated).py)
+8. [Coursera Project: Course Enrollment Analysis](Python/Coursera_project.ipynb)
+9. [Cardiovascular Disease Prediction](Python/Cardiovascular_disease_prediction.ipynb)
 
 ## 1. Excel skills:
 ### Description
